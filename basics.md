@@ -62,7 +62,7 @@ outline: [2, 3]
   开箱失败会爆炸；守卫到场后会进入可见倒计时，倒计时结束剩余箱子爆炸。
 - 冬眠者储藏站（数据）：
   名称常为 `Limited/Standard/Superior Sleeper Cache`。
-  难度高、收益高，详细解法见 [进阶与附录页](./进阶与附录.md)。
+  难度高、收益高，详细解法见 [进阶与附录页](./advanced-and-appendix.md)。
 - 普通冬眠者数据/遗迹：
   只出现在虫洞中，常见前缀有 `Unsecured` / `Forgotten` 等。
   站内有怪，不建议新人直接碰。
@@ -404,5 +404,5 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 13KM），所以尽量躲避他们的最佳射程能撑一会 不过被抓到了逃生几率很低，两轮就死了，不过可以带 ECM 无人机，虽然 E 住的概率很低，但是能多一点逃生的机会。
 
 :::tip 继续阅读
-看完这一页后，可以继续去 [进阶与附录](./进阶与附录.md) 查高级站点、推荐配装、产出和伤害表。
+看完这一页后，可以继续去 [进阶与附录](./advanced-and-appendix.md) 查高级站点、推荐配装、产出和伤害表。
 :::
