@@ -13,7 +13,7 @@ outline: [2, 3]
 :::
 
 :::tip 阅读顺序
-建议先看完本页，再继续阅读 [入门正文](./basics.md)；高危站点、配装表和查表附录统一放在 [进阶与附录](./advanced-and-appendix.md)。
+建议先看完本页，再继续阅读 [入门正文](./basics.md)；高危站点、配装表和查表附录统一放在 [进阶与附录](./advanced-and-appendix.md)。如果你想把完整的新手代理人教学也跑一遍，可以并行参考 [EVE 新手教程](./new-player-tutorial.md)。
 :::
 
 ## 新手起步
