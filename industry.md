@@ -22,51 +22,21 @@ outline: [2, 3]
 
 第一步
 
-![business-01](./images/new-player-tutorial/business/business-01.webp)
+需要注意的是任务会给你道具，在你接任务的空间站的物品机库里，经常有新人找不到任务物品导致即使抵达了卸载地点却无法完成任务
 
-需要注意的是任务会给你道具，在你接任务的空间站的物品机库里，经常有新人找不到任务
+把物品放进你的船里就可以出发啦zwz
 
-物品导致即使抵达了卸载地点却无法完成任务
+抵达卸载的空间站后双击等候你的代理人就可以交任务了，
 
-![business-02](./images/new-player-tutorial/business/business-02.webp)
-
-把他放进你的船里就可以出发啦。
-
-抵达卸载的空间站后
-![business-03](./images/new-player-tutorial/business/business-03.webp)
-
-双击等候你的代理人就可以交任务了，
-
-这时你会发现你没办法在当前空间站里接新任务，因为代理人与你不在一个空间站里，这时你需要返回职业代理人的空间站，担心找不到的话
-
-![business-04](./images/new-player-tutorial/business/business-04.webp)
-
-只需设置终点然后出站一直跟着黄色图标就可以找到
+这时你会发现你没办法在当前空间站里接新任务，因为代理人与你不在一个空间站里，这时你需要返回职业代理人的空间站，担心找不到的话，只需设置终点然后出站一直跟着黄色图标就可以找到
 
 好回到空间站开始第二步任务，
 
-![business-05](./images/new-player-tutorial/business/business-05.webp)
-
 注意看任务目标，做任务前你需要在你的船上装备民用打捞设备
 
-抵达任务地点，进入轨道
+抵达任务地点后进入轨道，然后接近民用运输舰残骸，锁定他，激活打捞器，打捞有一定几率失败，耐心等待
 
-![business-06](./images/new-player-tutorial/business/business-06.webp)
-
-接近民用运输舰残骸
-
-![business-07](./images/new-player-tutorial/business/business-07.webp)
-
-锁定他，激活打捞器，打捞有一定几率失败，耐心等待
-
-![business-08](./images/new-player-tutorial/business/business-08.webp)
-好成功了
-
-这时运输舰的残骸就可以打开了
-
-![business-09](./images/new-player-tutorial/business/business-09.webp)
-
-拿走里面的东西，然后回去交任务。
+成功后运输舰的残骸就可以打开了，拿走里面的东西，然后回去交任务。
 
 这步任务教会了你如何使用打捞器，打捞器可以用来打捞残骸，这个打捞并不是说把残害里剩下的装备什么的捡回来，而是把残骸化成一些制造用的材料打捞回来，
 
