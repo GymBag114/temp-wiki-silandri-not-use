@@ -27,122 +27,73 @@ outline: [2, 3]
 为什么把他放在最后呢，因为探索任务是新手教程中最难的一节
 
 很多新人就死在探索任务中，因此在这里我会详细讲解探索任务
+ 
 
-![0-1-first-exploration-01](./images/getting-started/first-exploration-01.webp) 
+维托尔.福根任务，做这个任务你要先知道如何打开扫描视图，首先，出站
 
-做这个任务你要先知道如何打开扫描视图，首先，出站
 
-![0-1-first-exploration-02](./images/getting-started/first-exploration-02.webp) 
+选择操作面板左下角的扫描样按钮
 
-选择我用红笔选择的图标
-
-![0-1-first-exploration-03](./images/getting-started/first-exploration-03.webp) 打开之后出现环状菜单，选择左边的
-
-![0-1-first-exploration-04](./images/getting-started/first-exploration-04.webp) 
+打开之后出现环状菜单，选择左边的多边形按钮
 
 出现一个列表，可以看到有异常空间和未知的空间信号，
 
 我们要前往任务要求的异常空间训练场
 
-![0-1-first-exploration-05](./images/getting-started/first-exploration-05.webp) 
-
 点击箭头就可以跳过去了
 
-![0-1-first-exploration-06](./images/getting-started/first-exploration-06.webp) 在你面前会有个箱子
+到达目标地点后在你面前会有个箱子
 
 拿走里边的东西回去交任务吧。
 
-第二步任务
+第二步任务中为你讲解了空间信号的概念，要详细查看。
 
-![0-1-first-exploration-07](./images/getting-started/first-exploration-07.webp) 
-
-任务中为你讲解了空间信号的概念，要详细查看。
-
-先前往他给你的目标地点吧
-
-![0-1-first-exploration-08](./images/getting-started/first-exploration-08.webp) 
-
-弹出来一个对话框，这里有之前提到过的加速轨道的详细解释，可以看看
-
-![0-1-first-exploration-09](./images/getting-started/first-exploration-09.webp) 
-
+先前往他给你的目标地点吧 
+ 
 进入第二层后代理人会要求你拿走你面前箱子里的东西，
-
-![0-1-first-exploration-10](./images/getting-started/first-exploration-10.webp) 
 
 拿完之后，**会更新提示，代理人为你详细讲解了探针的概念，务必详细看**
 
 看完后，你就可以进第三层了
 
-![0-1-first-exploration-11](./images/getting-started/first-exploration-11.webp) 
 
-第三层代理人为你讲解了什么是数据地点，**仔细查看，不然以后你会分不清什么时候用数据分析仪什么时候用遗迹分析仪**
+第三层代理人会为你讲解什么是数据地点，**仔细查看，不然以后你会分不清什么时候用数据分析仪什么时候用遗迹分析仪**
 
 然后进第四层
 
-![0-1-first-exploration-12](./images/getting-started/first-exploration-12.webp) 
 
 第四层代理人为你讲解什么是遗迹地点
 
 第五层代理人为你讲解什么是气云地点
 
-![0-1-first-exploration-13](./images/getting-started/first-exploration-13.webp) 
-
-好了现在可以回去交任务了
+完事后就可以回去交任务了
 
 这步任务告诉了你未知空间信号可能出现的种类，这些知识你以后会用在如何生存上，所以要认真看
 
 第三步任务
 
-![0-1-first-exploration-14](./images/getting-started/first-exploration-14.webp) 
-
 这步任务将会由你来实际操作如何扫描出一个空间信号，也是最难的地方，在这里我会对每一个细节进行详细讲解，希望你能认真看
 
 首先，把之前拿到的核心探针发射器还有探针都装配到船上，再装上数据分析仪
 
-![0-1-first-exploration-15](./images/getting-started/first-exploration-15.webp) 
+然后出站
 
-像这样，然后出站
+打开探针扫描器，发射探针
 
-打开探针扫描器
 
-![0-1-first-exploration-16](./images/getting-started/first-exploration-16.webp) 
 
-然后发射探针（左键点击核心探针发射器）
+你可以看到本来显示没有部署探针的那一栏出现了8个探针，
+总览中也会显示
 
-![0-1-first-exploration-17](./images/getting-started/first-exploration-17.webp) 
 
-可以看到本来显示没有部署探针的那一栏出现了8个探针，
-
-![0-1-first-exploration-18](./images/getting-started/first-exploration-18.webp) 
-
-总览中也有显示
-
-![0-1-first-exploration-19](./images/getting-started/first-exploration-19.webp) 
-
-然后点击"恒星视图"图标
-
-![0-1-first-exploration-20](./images/getting-started/first-exploration-20.webp) 
+然后点击"恒星视图"按钮
 
 出现了这样一个界面，其中8个蓝圈代表了你的8根探针，那些红色的圈代表未知的空间信号，你可以在黑色地区鼠标左键来回拖动改变视角，鼠标右键可以改变你查看的位置
 
-左键拖动效果：![0-1-first-exploration-21](./images/getting-started/first-exploration-21.webp) 
-
-![0-1-first-exploration-22](./images/getting-started/first-exploration-22.webp) 
 
 可以竖着看星系，也可以平着看星系，这些都通过鼠标左键实现
 
-右键效果
-
-：![0-1-first-exploration-23](./images/getting-started/first-exploration-23.webp) 
-
-我可以让他在屏幕中间，
-
-![0-1-first-exploration-24](./images/getting-started/first-exploration-24.webp) 
-
-也可以让他靠左或靠右，这些通过右键来实现
-
-![0-1-first-exploration-25](./images/getting-started/first-exploration-25.webp) 
+右键可以选择在屏幕的位置，也可以让他靠左或靠右，这些通过右键来实现
 
 左上角这些件可以对探针进行各种操作，
 
@@ -150,15 +101,9 @@ outline: [2, 3]
 
 ![0-1-first-exploration-26](./images/getting-started/first-exploration-26.webp) 是精确发射，点击一下
 
-![0-1-first-exploration-27](./images/getting-started/first-exploration-27.webp) 
-
-探针就变成了8个叠在一起的模式
-
 ![0-1-first-exploration-28](./images/getting-started/first-exploration-28.webp) 是分散发射，点击一下，
 
-![0-1-first-exploration-29](./images/getting-started/first-exploration-29.webp) 
-
-就又变成了这种形状
+注意观察他们的不同
 
 ![0-1-first-exploration-30](./images/getting-started/first-exploration-30.webp) 是收回你在太空中的探针
 
@@ -168,7 +113,7 @@ outline: [2, 3]
 
 接下来教你如何调探针的扫描范围
 
-![0-1-first-exploration-31](./images/getting-started/first-exploration-31.webp) 鼠标放在这些球状的边缘你会发现这些球体会亮起来，然后拖拽，你会发现这些球会根据你的鼠标移动变大变小，因为没法截图所以口头叙述了
+鼠标放在球状图的边缘你会发现这些球体会亮起来，然后拖拽，你会发现这些球会根据你的鼠标移动变大变小，因为没法截图所以口头叙述了
 
 现在选择精确式发射
 
@@ -180,51 +125,26 @@ outline: [2, 3]
 
 在一堆信号中选择一个（鼠标左键单击一个信号）
 
-![0-1-first-exploration-34](./images/getting-started/first-exploration-34.webp) 
-
 你会发现红圈只剩下一个，这样看着就顺眼多了，就盯着他扫描吧
-
-![0-1-first-exploration-35](./images/getting-started/first-exploration-35.webp) 
 
 鼠标移到中间那个方块你会发现方块变红了，这里要注意，不要让周围的那几个箭头变红
 
-这时你就可以同时操控8个球随意移动，现在我们要做的就是，让蓝色的球完全包裹住
+这时你就可以同时操控8个球随意移动，现在我们要做的就是，让蓝色的球完全包裹住红色的球
 
-红色的球
-
-![0-1-first-exploration-36](./images/getting-started/first-exploration-36.webp) 
-
-像这样，运用鼠标所有键看看以确保是完全包裹住
+检查是否完全包裹
 
 确认完成，点击分析键
 
-![0-1-first-exploration-37](./images/getting-started/first-exploration-37.webp) 
+当信号强度扫到100%时就可以跳过去
 
-![0-1-first-exploration-38](./images/getting-started/first-exploration-38.webp) 
-
-这个信号我已经扫出来了67.7%，当信号强度扫到100%时就可以跳过去
-
-![0-1-first-exploration-39](./images/getting-started/first-exploration-39.webp) 
 
 同时恒星系图中出现了两个地标，这意味着你扫描出现了误差（技能不够的新人最容易出现这种情况）
 
 那么如何判断哪个是真信号呢，这里老司机凭借多年经验交给你比较简单的判断方法
 
-首先，不要动你的探针，使用鼠标左右键来查看信号![0-1-first-exploration-40](./images/getting-started/first-exploration-40.webp) 不难发现，1号信号距离你的蓝球球心比较远，2号比较近
-
-![0-1-first-exploration-41](./images/getting-started/first-exploration-41.webp) 用鼠标左右键换角度看看，也能得出结论
-
 **记住，离球心最远的那个信号一定是真的**
 
-来验证一下吧
-
-![0-1-first-exploration-42](./images/getting-started/first-exploration-42.webp) 
-
-不断调整你的蓝球大小并移动他，让他包裹信号，然后分析
-
-![0-1-first-exploration-43](./images/getting-started/first-exploration-43.webp) 
-
-看，扫出来了。可以跳过去了
+扫出来后，就可以跳过去了
 
 这里提一下箭头的作用，很简单，每个箭头代表一个可拖动的方向，向往一个固定方向移动时只需要拉动箭头即可，哪个两箭头变成了红色代表你可以把他往哪个方向移动
 
