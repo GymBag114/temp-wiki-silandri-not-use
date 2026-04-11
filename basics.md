@@ -16,7 +16,7 @@ outline: [2, 3]
 
 ### 扫描操作 Probing
 
-![4-1-probing](./images/basics/probing.webp)
+![4-1-probing](./images/explore/basics/probing.webp)
 
 #### 首先界面布置
 
@@ -39,7 +39,7 @@ outline: [2, 3]
 9. 扫描度到 25% 可以看出信号类型，如战斗地点、气云地点、数据地点、遗迹地点；到 75% 才能看见扫描信号的具体名称，到 100% 就可以跃迁
 10. 记得关闭分析仪的自动循环，右键分析仪，set off
 
-![4-1-interface-setup](./images/basics/interface-setup.webp)
+![4-1-interface-setup](./images/explore/basics/interface-setup.webp)
 
 ### 信号类型 Site Types
 
@@ -135,7 +135,7 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 
 ### 破解 Hacking
 
-![4-4-hacking-01](./images/basics/hacking-overview.webp)
+![4-4-hacking-01](./images/explore/basics/hacking-overview.webp)
 
 上图是一个破解小游戏的图解，Conherence 是你的血量，Strength 是你的攻击，按本页前面推荐的基础配置，你目前通常会有大约 70 血量、25 攻击，除了最高难度的红核心，其他难度的破解应该都比较容易。
 
@@ -147,7 +147,7 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 
 破解的时候不要紧张，更不要手快，因为这个小游戏存在延迟，当你点出核心后可能手快点到后面出了一个防御节点把核心封死。发现自己的血量不够杀死核心时，别忘了多开其他的点，可能出道具。提升破解成功率的最好途径就是提高攻击力，使用 T2 分析仪加上黑镜脑插能到 60 攻，基本一下一个节点，所以请尽快挂出 T2 数据分析仪。
 
-![4-4-hacking-02](./images/basics/hacking-nodes.webp)
+![4-4-hacking-02](./images/explore/basics/hacking-nodes.webp)
 
 节点图示：
 
@@ -291,31 +291,31 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 
 ### 基本设置 Setting
 
-![6-1-basic-setting-01](./images/basics/basic-setting-01.webp)
+![6-1-basic-setting-01](./images/explore/basics/basic-setting-01.webp)
 
 1.调整总览，至少准备一套“探索/旅行”和一套“PVP/警戒”过滤器。重点不是照抄某个频道预设，而是让你能稳定看到星门、泡泡、敌对舰船、探针与可破解目标。
 
-![6-1-basic-setting-02](./images/basics/basic-setting-02.webp)
+![6-1-basic-setting-02](./images/explore/basics/basic-setting-02.webp)
 
 2.调整环绕距离为 2100m，随便点击一个物体，在环绕按钮上右键，即可调整默认环绕距离，注意这个默认距离只能在，下图图示上使用，右键环绕并没有这个选项
 
-![6-1-basic-setting-03](./images/basics/basic-setting-03.webp)
+![6-1-basic-setting-03](./images/explore/basics/basic-setting-03.webp)
 
-![6-1-basic-setting-04](./images/basics/basic-setting-04.webp)
+![6-1-basic-setting-04](./images/explore/basics/basic-setting-04.webp)
 
 3.设置快捷键，点击左上角 ， 打开设置 Setting，快捷键设置，调整常用的模块到顺手的按键，例如隐身推子探针扫描D 扫描，关键时刻可能救你一命
 
-![6-1-basic-setting-05](./images/basics/basic-setting-05.webp)
+![6-1-basic-setting-05](./images/explore/basics/basic-setting-05.webp)
 
 4.设置 D-扫描，Alt+D 打开 D-扫描界面，并将其固定在外部，调整角度为360°，注意 D-扫描的过滤选项是依据你的总览设置，也可独立设置
 
-![6-1-basic-setting-06](./images/basics/basic-setting-06.webp)
+![6-1-basic-setting-06](./images/explore/basics/basic-setting-06.webp)
 
 ### 技巧 Tips&Tricks
 
 #### 假隐跳 by 784 fvtr
 
-![6-2-fake-cloak-jump](./images/basics/fake-cloak-jump.webp)
+![6-2-fake-cloak-jump](./images/explore/basics/fake-cloak-jump.webp)
 
 过门后，对太空随意一个方向双击，如箭头 1。注意屏幕右上角的隐形图标，留意其是否消失，参考图中的箭头 2。隐形图标消失，立刻点开隐形装置，如箭头 3。点开隐形装置后，迅速激活微型跃迁推进器。完成以上操作后，再对太空随意一个方向双击。
 
@@ -333,15 +333,15 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 
 点击 D-扫描面板上的
 
-![6-2-dscan-01](./images/basics/dscan-01.webp)
+![6-2-dscan-01](./images/explore/basics/dscan-01.webp)
 
 能够显示当前 D-扫描的范围，按默认快捷键 D 能够进行扫描，显示该区域内所有非隐身目标，调整角度缩小扫描范围，多次尝试能获得敌人大概方位。
 
-![6-2-dscan-02](./images/basics/dscan-02.webp)
+![6-2-dscan-02](./images/explore/basics/dscan-02.webp)
 
 #### 安全点/深空点
 
-![6-2-safe-spot](./images/basics/safe-spot.webp)
+![6-2-safe-spot](./images/explore/basics/safe-spot.webp)
 
 随意选择一个星球跃迁，在跃迁途中按 Ctrl+B 保存位置，上图的红点位置，注意 保存的位置是当你点击了 submit 时自身的位置，所以请留有一定的提前时间。
 
@@ -377,13 +377,13 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 
 #### 附装备介绍
 
-![6-3-escape-fitting-01](./images/basics/escape-fitting-01.webp)
+![6-3-escape-fitting-01](./images/explore/basics/escape-fitting-01.webp)
 
 扰断 Warp Disruptor：反跳强度 1 点，能阻止起跳，但是不能关闭微
 
 曲，范围24km（超载28KM），被扰断很容易逃生，反方向超载微曲跑就是了，脱离有效范围就起跳
 
-![6-3-escape-fitting-02](./images/basics/escape-fitting-02.webp)
+![6-3-escape-fitting-02](./images/explore/basics/escape-fitting-02.webp)
 
 扰频 Warp Scrambler：反跳强度 2 能阻止起跳（势力扰频是 3 点强
 
@@ -393,7 +393,7 @@ This wormhole is beginning to decay, and probably won't last another day This wo
 
 网子 Stasis Webifier：减少 60%最大速度，小白被网子加扰频了速度只剩不到
 
-![6-3-escape-fitting-03](./images/basics/escape-fitting-03.webp)
+![6-3-escape-fitting-03](./images/explore/basics/escape-fitting-03.webp)
 
 200。通常痴汉都是开剑齿虎上 200 220 280 射弹，射程 10KM（超载
 

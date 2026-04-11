@@ -39,7 +39,7 @@ outline: [2, 3]
 
 ## 海盗势力图 Factional Influence Map
 
-![8-2-faction-map](./images/appendix/faction-map.webp)
+![8-2-faction-map](./images/explore/appendix/faction-map.webp)
 
 可放大查看,右下图例是名称对照
 
@@ -183,7 +183,7 @@ outline: [2, 3]
 
 使用方法：下面几套都整理成了可读的纯文本配装。若你的客户端支持从剪贴板导入，可以直接复制代码块中的内容；若不支持，就按顺序手动装配。
 
-![8-4-fitting-heron-newbie](./images/appendix/fitting-heron-newbie.webp)
+![8-4-fitting-heron-newbie](./images/explore/appendix/fitting-heron-newbie.webp)
 
 `Heron` 新人挖坟：
 
@@ -208,7 +208,7 @@ Hobgoblin I x7
 
 合计约 `3.7m`。新人可以先不上姐妹会针和隐身；扫描强度不够时优先补扫描相关模块，回家跑路时再换更偏逃生的低槽。
 
-![8-4-fitting-astero-plate](./images/appendix/fitting-astero-plate.webp)
+![8-4-fitting-astero-plate](./images/explore/appendix/fitting-astero-plate.webp)
 
 `Astero` 钢板小白：
 
@@ -237,7 +237,7 @@ Hornet EC-300 x5
 
 不含脑插合计约 `160m`。这套大致在 `7k+` 有效左右，技能合格时扫描强度可覆盖常见信号，可上黑镜。
 
-![8-4-fitting-astero-t2-plate](./images/appendix/fitting-astero-t2-plate.webp)
+![8-4-fitting-astero-t2-plate](./images/explore/appendix/fitting-astero-t2-plate.webp)
 
 `Astero` T2 钢板小白：
 
@@ -267,7 +267,7 @@ Sisters Core Scanner Probe x16
 
 合计约 `95m`。需要更高技能，整体打法与“终极小白”相近，但不能稳定硬抗超冬冲击波；爆抗、甲修和船插可以按你的技能与预算微调。
 
-![8-4-fitting-astero-ultimate](./images/appendix/fitting-astero-ultimate.webp)
+![8-4-fitting-astero-ultimate](./images/explore/appendix/fitting-astero-ultimate.webp)
 
 `Astero` 终极小白：
 
@@ -303,7 +303,7 @@ Sisters Core Scanner Probe x24
 
 合计约 `650m`。很贵，主要适用于高安开冬眠；廉价低配请看前面的 “T2 钢板小白”，具体使用说明请看 [进阶实践页的“终极小白 The Ultimate Astero”部分](./advanced-practice.md#终极小白-the-ultimate-astero)。
 
-![8-4-fitting-astero-ultimate-extra](./images/appendix/fitting-astero-ultimate-extra.webp)
+![8-4-fitting-astero-ultimate-extra](./images/explore/appendix/fitting-astero-ultimate-extra.webp)
 
 ## 伤害数据库 Damage Data Base
 
